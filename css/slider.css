@@ -56,11 +56,11 @@
 }
 
 .flex-control-nav li a:hover{
-	background: #2E2E2E;
+	background: #ff5900;
 }
 
 .flex-control-nav li a.flex-active{
-	background: #2E2E2E;	
+	background: #ff5900;	
 }
 
 .flex-direction-nav a{
