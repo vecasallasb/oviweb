@@ -8,6 +8,23 @@ header {
 	background:#006680;
 		
 }
+
+#contenedor{
+	width:100%;
+	height:auto;
+	margin:auto;
+	background:#fff;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	align-items:center;
+	
+}
+.h1{
+	margin-right:50px;
+	font-size:30px;
+	
+}
 #btn-menu{
 	display: none;
 		
